@@ -1,26 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The First Post!</title>
-      <link>http://localhost:1313/post/2025/07/18/the-first-post/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/07/18/the-first-post/</guid>
-      <description>&lt;h1 id=&#34;the-first-post&#34;&gt;The First Post!&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#433e56;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-lisp&#34; data-lang=&#34;lisp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(display &lt;span style=&#34;color:#1bc5e0&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Alternative Platforms</title>
-      <link>http://localhost:1313/socials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/socials/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m on other platforms that you can feel free to check out.&lt;/p&gt;&#xA;&lt;p&gt;Click on the images to go to the page.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; gap: 20px;&#34;&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/lulusillyyy.bsky.social&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/bsky.svg&#34; alt=&#34;bluesky&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://x.com/lulusillyyy&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/x.svg&#34; alt=&#34;X.com, formerly Twitter&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://github.com/lulusillyyy&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/github.svg&#34; alt=&#34;GitHub&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://steamcommunity.com/id/luluthaqt&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/steam.svg&#34; alt=&#34;Steam&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@lulusillyyy&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/youtube.svg&#34; alt=&#34;YouTube&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;&lt;a href=&#34;https://www.twitch.tv/lulusillyyy&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/twitch.svg&#34; alt=&#34;Twitch.tv&#34; width=50 height=50&gt;&lt;/a&gt;&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://example.com/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>The First Post!</title><link>https://example.com/post/2025/07/18/the-first-post/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://example.com/post/2025/07/18/the-first-post/</guid><description>&lt;h1 id="the-first-post">The First Post!&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#433e56;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-lisp" data-lang="lisp">&lt;span style="display:flex;">&lt;span>(display &lt;span style="color:#1bc5e0">&amp;#34;Hello, World!&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Alternative Platforms</title><link>https://example.com/socials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/socials/</guid><description>&lt;p>I&amp;rsquo;m on other platforms that you can feel free to check out.&lt;/p>
+&lt;p>Click on the images to go to the page.&lt;/p>
+&lt;div style="display: flex; gap: 20px;">
+ &lt;p>&lt;a href="https://bsky.app/profile/lulusillyyy.bsky.social">&lt;img src="https://example.com/images/bsky.svg" alt="bluesky" width=50 height=50>&lt;/a>&lt;/p>
+ &lt;p>&lt;a href="https://x.com/lulusillyyy">&lt;img src="https://example.com/images/x.svg" alt="X.com, formerly Twitter" width=50 height=50>&lt;/a>&lt;/p>
+ &lt;p>&lt;a href="https://github.com/lulusillyyy">&lt;img src="https://example.com/images/github.svg" alt="GitHub" width=50 height=50>&lt;/a>&lt;/p>
+ &lt;p>&lt;a href="https://steamcommunity.com/id/luluthaqt">&lt;img src="https://example.com/images/steam.svg" alt="Steam" width=50 height=50>&lt;/a>&lt;/p>
+ &lt;p>&lt;a href="https://www.youtube.com/@lulusillyyy">&lt;img src="https://example.com/images/youtube.svg" alt="YouTube" width=50 height=50>&lt;/a>&lt;/p>
+ &lt;p>&lt;a href="https://www.twitch.tv/lulusillyyy">&lt;img src="https://example.com/images/twitch.svg" alt="Twitch.tv" width=50 height=50>&lt;/a>&lt;/p>
+&lt;/div></description></item></channel></rss>

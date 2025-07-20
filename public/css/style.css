@@ -1,102 +1,107 @@
-/* Dark mode - Light Pastel Purple Inversion */
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #E1DAED; /* Very light pastel purple for "dark" mode background */
-        color: #4F356B; /* Darker pastel purple for text (for contrast) */
+        background-color: #393E41;
+        color: white;
     }
 
     blockquote {
-        background: #EDE8F5; /* Lighter pastel purple for blockquote */
+      background: #393E41;
     }
 
     a {
-        color: #A687D0; /* Slightly more vibrant pastel purple for links */
+      color: #EBC3DB;
     }
 
     header {
-        background: #A687D0; /* Slightly more vibrant pastel purple header */
-        border-bottom: 2px dotted #C7B4DE; /* Pastel purple dotted border */
+      background: #393E41;
+      border-bottom: 2px dotted #EBC3DB;
+
     }
 
     .article-meta, .menu a {
-        background: #E1DAED; /* Very light pastel purple */
-        color: #4F356B; /* Darker pastel purple text */
+      background: #393E41;
+      color: white;
     }
 
     table {
-        margin: auto;
-        border-top: 1px solid #B4A3CC; /* Darker pastel purple for table borders */
-        border-bottom: 1px solid #B4A3CC;
+      margin: auto;
+      border-top: 1px solid #666;
+      border-bottom: 1px solid #666;
     }
-    table thead th { border-bottom: 1px solid #B4A3CC; }
+    table thead th { border-bottom: 1px solid #666; }
     th, td { padding: 5px; }
-    tr:nth-child(even) { background: #F2EDF7; } /* Even lighter pastel purple for even rows */
+    tr:nth-child(even) { background: #666 }
 
 }
 
 
-/* Light mode - Actual Pastel Pink (Main Theme) */
+/* Light mode */
 @media (prefers-color-scheme: light) {
-    body {
-        background-color: #FFD1DC; /* Your actual pastel pink body background */
-        color: #4F356B; /* Darker pastel purple for main text (for contrast) */
-    }
-
     blockquote {
-        background: #FFEBF0; /* Lighter pink for subtle blockquote contrast */
+      background: #f9f9f9;
     }
 
     a {
-        color: #C7B4DE; /* Pastel purple for links */
+      color: #613DC1;
     }
 
     header {
-        background: #C7B4DE; /* Pastel purple header */
+      background: #613DC1;
     }
 
     .article-meta, .menu a {
-        background: #FFD1DC; /* Pastel pink */
-        color: #4F356B; /* Darker pastel purple text */
+      background: #E8DBC5;
+      color: #000;
     }
 
     table {
-        margin: auto;
-        border-top: 1px solid #DBCFE0; /* Muted pastel purple for table borders */
-        border-bottom: 1px solid #DBCFE0;
+      margin: auto;
+      border-top: 1px solid #666;
+      border-bottom: 1px solid #666;
     }
-    table thead th { border-bottom: 1px solid #DBCFE0; }
+    table thead th { border-bottom: 1px solid #ddd; }
     th, td { padding: 5px; }
-    tr:nth-child(even) { background: #FFEBF0; } /* Lighter pink for even rows */
+    tr:nth-child(even) { background: #eee }
 
 }
 
 
-/* Shared styles */
 body {
-    max-width: 800px;
-    margin: auto;
-    padding: .2em;
-    line-height: 1.5em;
+  max-width: 800px;
+  margin: auto;
+  padding: .2em;
+  line-height: 1.5em;
 }
 
 h1 {
-    line-height: 1.5em;
+  line-height: 1.5em;
 }
 
+/* Table of Contents, if wanted
+
+Add to yaml:
+
+output:
+  blogdown::html_page:
+    toc: true
+
+    */
+
 #TableOfContents, #TOC {
-    border: 1px solid light-dark(#DBCFE0, #B4A3CC); /* Pastel border that adapts to light/dark mode */
-    border-radius: 5px;
+  border: 1px solid #eee;
+  border-radius: 5px;
 }
 
 /* Header and Footer */
 .menu li { display: inline-block; }
 .article-meta, .menu a {
-    text-decoration: none;
-    padding: 5px;
-    border-radius: 5px;
-    border-style: dotted;
-    border-width: 1px;
-    margin: 20px 0px 20px 0px;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: dotted;
+  border-width: 1px;
+  margin: 20px 0px 20px 0px;
 }
 
 .terms { font-size: .9em; }
@@ -112,13 +117,14 @@ footer a { text-decoration: none; }
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
+/* Adjust background at your leisure! */
 header {
     position: relative;
     width: 100%;
@@ -137,7 +143,7 @@ header nav {
 }
 
 header a {
-    color: #fff; /* White text for header links (to ensure contrast on pastel purple header) */
+    color: #fff;
     line-height: 1.75rem;
     padding: 0 0.5rem
 }
@@ -148,55 +154,56 @@ header .current a {
 
 /* Code Boxes */
 pre {
-    border: 2px solid light-dark(#C7B4DE, #A687D0); /* Pastel purple border that adapts to light/dark mode */
-    padding: 1em;
-    overflow-x: auto;
+  border: 2px solid #EBC3DB;
+  padding: 1em;
+  overflow-x: auto;
 }
 pre code { background: none; }
 
 code {
-    background-color: light-dark(#F8EBFD, #EDE8F5); /* Pastel background that adapts to light/dark mode */
-    border-radius: 3px;
-    padding: 0.2em;
-    overflow-x: auto;
+  background-color: light-dark(#D6D6D6, #888);
+  border-radius: 3px;
+  padding: 0.2em;
+  overflow-x: auto;
 }
 
 /* Images, tables, misc. */
 img, iframe, video {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main {
-    hyphens: auto;
-    max-width: 650px;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.7em;
-    hyphens: auto;
-    display: block;
-    font-size: 1.1em;
+  hyphens: auto;
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.7em;
+  hyphens: auto;
+  display: block;
+  font-size: 1.1em;
 }
 main a {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 blockquote {
-    border-left: 5px solid light-dark(#C7B4DE, #A687D0); /* Pastel purple border that adapts to light/dark mode */
-    padding: 3px 1em 3px;
+
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
 }
 
 .content-wrapper {
-    padding: 0px 12px 0px 12px;
+  padding: 0px 12px 0px 12px;
 }
 #foxy {
-    min-width: 40px;
-    float: right;
-    padding: 10px;
-    display: block;
+  min-width: 40px;
+  float: right;
+  padding: 10px;
+  display: block;
 }
 
 
@@ -205,27 +212,28 @@ blockquote {
 
 /* Small devices, phones */
 @media only screen and (min-width : 480px) {
-    #foxy {
-        min-width: 40px;
-        float: center;
-        padding: 10px 10px 10px 20px;
-        display: block;
-    }
+  #foxy {
+    min-width: 40px;
+    float: center;
+    padding: 10px 10px 10px 20px;
+    display: block;
+  }
 
 }
 
-/* Desktop screen styles for TOC */
+/* 在大屏幕上应用特定样式 */
 @media screen and (min-width: 768px) {
     #table-of-contents {
-        position: fixed;
-        top: 50%;
-        right: 15px;
-        transform: translateY(-50%);
-        background-color: light-dark(#FFD1DC, #E1DAED); /* Pastel pink or light pastel purple background that adapts to light/dark mode */
-        padding: 10px;
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-        width: 250px;
-        max-height: 70vh;
-        overflow-y: auto;
+        position: fixed; /* 固定定位，使其悬浮在页面上 */
+        top: 50%; /* 上边距为50% */
+        right: 15px; /* 右边距为0，将其放在右侧 */
+        transform: translateY(-50%); /* 使用transform来垂直居中 */
+        background-color: #f0f0f0; /* 设置背景颜色 */
+        padding: 10px; /* 添加一些内边距以增加可读性 */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+        width: 250px; /* 设置宽度 */
+        max-height: 70vh; /* 设置最大高度为视口的70% */
+        overflow-y: auto; /* 添加垂直滚动条 */
     }
 }
+
