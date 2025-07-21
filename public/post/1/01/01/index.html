@@ -9,8 +9,8 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A simple, minimal blog for those who love text.">
-    <title> | Classic</title>
+    <meta name="description" content="Digital mischief, analog heart.">
+    <title> | Home</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <link rel="stylesheet" href="http://localhost:1313/css/theme-override.css">
@@ -24,7 +24,7 @@
           
           
           <li class="pull-left ">
-            <a href="http://localhost:1313/">~/classic</a>
+            <a href="http://localhost:1313/">~/home</a>
           </li>
           
           
@@ -41,7 +41,12 @@
           
           
           <li class="pull-right">
-            <a href="/index.xml">~/subscribe</a>
+            <a href="/socials/">~/socials</a>
+          </li>
+          
+          
+          <li class="pull-right">
+            <a href="/index.xml">~/rss</a>
           </li>
           
 
@@ -67,8 +72,7 @@
 
 <div class="content-wrapper">
   <main>
-    <h1 id="the-first-post">The First Post!</h1>
-<p>Testing testing 123</p>
+    <p>test</p>
 
     <a href="/"> >> Home</a>
   </main>
@@ -103,7 +107,32 @@
 
       
       <hr/>
-      Open-Source | <a href="https://github.com/goodroot/hugo-classic">Github</a> | <a href="https://keybase.io/goodroot">Keybase</a>
+      <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="/images/think_different_powered_by_mac.gif" alt="Think Different Powered by Mac" class="footer-gif">
+    <img src="/images/linux_powered.gif" alt="Linux Powered" class="footer-gif">
+    <img src="/images/under_construction.gif" alt="This page is perpetually under construction" class="footer-gif">
+    <img src="/images/matrix.gif" alt="Matrix numbers scrolling across the screen" class="footer-gif">
+    <img src="/images/this_page_may_be_hazardous_to_your_health.gif" alt="Warning! This page may be hazardous to your mental health" class="footer-gif">
+</div>
+<style>
+    /* Add this to your CSS file or a <style> block */
+    .footer-gif {
+        /* Set explicit small dimensions, classic sizes */
+        width: 120px;   /* A very common old-school web button size */
+        height: 60px;  /* A very common old-school web button size */
+        object-fit: contain; /* Ensures the entire GIF is visible */
+        flex-shrink: 0;      /* Prevents GIFs from shrinking */
+        flex-grow: 0;        /* Prevents GIFs from growing */
+    }
+
+    /* Optional: If some GIFs are naturally different sizes, you could create
+       specific classes for them, e.g.: */
+    .footer-gif-large {
+        width: 100px;
+        height: 80px;
+    }
+</style>
+
       
     </footer>
   </body>
