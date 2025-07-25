@@ -1,6 +1,5 @@
 ---
 title: "Alternative Platforms"
-date: 2025-07-18
 slug: "socials"
 ---
 I'm on other platforms that you can feel free to check out.

@@ -229,3 +229,17 @@ blockquote {
         overflow-y: auto;
     }
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    margin: 0; /* Remove any default margins */
+}
+
+.responsive-video {
+    width: 960px; /* Set desired width */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 0; /* Remove bottom margin */
+}
+
