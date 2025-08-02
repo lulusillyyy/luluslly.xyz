@@ -37,11 +37,15 @@ weight = 2
 [[menu.feed]]
 name = "Socials"
 url = "/socials/"
-weight = 1
+weight = 2
 [[menu.feed]]
 name = "RSS"
 url = "/index.xml"
-weight = 2
+weight = 3
+[[menu.feed]]
+name = "donate"
+url = "/donate/"
+weight = 1
 
 [params]
 custom_css = ["css/theme-override.css"]
