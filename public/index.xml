@@ -6,15 +6,8 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Configuring a Corne-style Keyboard Layout Using Kanata</title>
-      <link>http://localhost:1313/post/2025/09/01/kanata-config/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/09/01/kanata-config/</guid>
-      <description>&lt;p&gt;As of late, I have been working on updating my configuration files, which can now be viewed on my &lt;a href=&#34;https://git.luluslly.xyz/&#34;&gt;Forgejo instance&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>On Getting My First Split Mechanical Keyboard</title>
       <link>http://localhost:1313/post/2025/08/02/on-getting-my-first-split-mech-keyboard/</link>
@@ -62,7 +55,7 @@
       <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/donate/</guid>
-      <description>&lt;p&gt;If you like my site and would like to support me, feel free to send a donation via Monero XMR to the wallet below. I would be very thankful!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; &lt;u&gt;46DWg1pwWrREwzaPY3P9fv4iUpbsKXq94CXCth5nxfv9CA5GeydHSKKMtXk5xaAhzK3JnfPn7MDamNxeyk5tLNYs96x4ygZ&lt;/u&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/monero_qr.webp&#34; alt=&#34;Monero wallet QR code&#34;&gt;</description>
+      <description>&lt;p&gt;If you like my site and would like to support me, feel free to send a donation via Monero XMR to the wallet below. I would be very thankful!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; &lt;code style=&#34;display: block;word-break: break-all;&#34;&gt;46DWg1pwWrREwzaPY3P9fv4iUpbsKXq94CXCth5nxfv9CA5GeydHSKKMtXk5xaAhzK3JnfPn7MDamNxeyk5tLNYs96x4ygZ&lt;/code&gt;&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/monero_qr.webp&#34; alt=&#34;Monero wallet QR code&#34;&gt;</description>
     </item>
   </channel>
 </rss>

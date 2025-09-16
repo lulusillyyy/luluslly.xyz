@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Configuring a Corne-style Keyboard Layout Using Kanata</title>
-      <link>http://localhost:1313/post/2025/09/01/kanata-config/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/09/01/kanata-config/</guid>
-      <description>&lt;p&gt;As of late, I have been working on updating my configuration files, which can now be viewed on my &lt;a href=&#34;https://git.luluslly.xyz/&#34;&gt;Forgejo instance&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
     <item>
       <title>On Getting My First Split Mechanical Keyboard</title>
       <link>http://localhost:1313/post/2025/08/02/on-getting-my-first-split-mech-keyboard/</link>
