@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Privacy on Home</title>
+    <link>http://localhost:1313/tags/data-privacy/</link>
+    <description>Recent content in Data Privacy on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Treatise on Data Sovereignty</title>
+      <link>http://localhost:1313/post/2025/08/08/a-treatise-on-data-sovereignty/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/08/08/a-treatise-on-data-sovereignty/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;You can&amp;rsquo;t own my soul. What I have, I made, what I have is mine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Kathleen Glasgow, &lt;em&gt;Girl in Pieces&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Many people seem to forget the idea behind self hosting and why is is the go-to answer in discussions on &amp;ldquo;free speech&amp;rdquo; alternatives to popular online platforms like X, Reddit, YouTube. The reason as to why that one nerd online tells you to provision your old laptop or desktop as a simple home server is because it is the only logical way to have digital autonomy in the modern day.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Home</title><link>https://luluslly.xyz/categories/</link><description>Recent content in Categories on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luluslly.xyz/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Computing</title><link>https://luluslly.xyz/categories/computing/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/categories/computing/</guid><description/></item><item><title>Ergonomics</title><link>https://luluslly.xyz/categories/ergonomics/</link><pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/categories/ergonomics/</guid><description/></item><item><title>Writings</title><link>https://luluslly.xyz/categories/writings/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/categories/writings/</guid><description/></item><item><title>General</title><link>https://luluslly.xyz/categories/general/</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/categories/general/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computing</title>
+      <link>http://localhost:1313/categories/computing/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ergonomics</title>
+      <link>http://localhost:1313/categories/ergonomics/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ergonomics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyboard</title>
+      <link>http://localhost:1313/categories/keyboard/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/keyboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writings</title>
+      <link>http://localhost:1313/categories/writings/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/writings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/categories/general/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/general/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
