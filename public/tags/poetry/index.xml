@@ -1,19 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Poetry on Home</title>
-    <link>http://localhost:1313/tags/poetry/</link>
-    <description>Recent content in Poetry on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Poem I Made</title>
-      <link>http://localhost:1313/post/2025/07/20/poem-i-made/</link>
-      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/07/20/poem-i-made/</guid>
-      <description>&lt;p&gt;I wrote the below poem on 2025-04-25. Not an instant classic, but simply an expression of my feelings.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;i yearn to be with another being&#xA;a lifelog bond where our memories and experiences intertwine&#xA;our sorrows, our joy, our anger&#xA;all together&#xA;a collective conscious&#xA;our deaths will leave behind our souls to dwell in the people we touched&#xA;the people we helped, the people we knew and loved&#xA;that will be our legacy&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Poetry on Home</title><link>https://luluslly.xyz/tags/poetry/</link><description>Recent content in Poetry on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luluslly.xyz/tags/poetry/index.xml" rel="self" type="application/rss+xml"/><item><title>A Poem I Made</title><link>https://luluslly.xyz/post/2025/07/20/poem-i-made/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/post/2025/07/20/poem-i-made/</guid><description>&lt;p>I wrote the below poem on 2025-04-25. Not an instant classic, but simply an expression of my feelings.&lt;/p>
+&lt;pre tabindex="0">&lt;code>i yearn to be with another being
+a lifelog bond where our memories and experiences intertwine
+our sorrows, our joy, our anger
+all together
+a collective conscious
+our deaths will leave behind our souls to dwell in the people we touched
+the people we helped, the people we knew and loved
+that will be our legacy
+&lt;/code>&lt;/pre></description></item></channel></rss>
