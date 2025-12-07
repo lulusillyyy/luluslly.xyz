@@ -6,14 +6,14 @@
     <description>Recent content in Keyboard on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configuring a Corne-style Keyboard Layout Using Kanata</title>
-      <link>http://localhost:1313/post/2025/09/01/kanata-config/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/09/01/kanata-config/</guid>
-      <description>&lt;p&gt;As of late, I have been working on updating my configuration files, which can now be viewed on my &lt;a href=&#34;https://git.luluslly.xyz/&#34;&gt;Forgejo instance&lt;/a&gt;&lt;/p&gt;</description>
+      <link>http://localhost:1313/post/2025/09/06/kanata-config/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/09/06/kanata-config/</guid>
+      <description>&lt;p&gt;As of late, I have been working on keeping up-to-date repositories of my various configuration files, which can now be viewed on my &lt;a href=&#34;https://git.luluslly.xyz/lulusilly/&#34;&gt;Forgejo instance&lt;/a&gt;. One of the things I have put a decent amount of work into has been my daily-use keyboard layout. Seeing as I&amp;rsquo;ve fallen hook, line, and sinker for the ergonomic keyboard craze, I&amp;rsquo;ve come up with a relatively comfortable setup using the &lt;a href=&#34;https://github.com/jtroo/kanata&#34;&gt;Kanata&lt;/a&gt; program.&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/kanata-icon.svg&#34; alt=&#34;A white letter K imprinted on a pastel pink keyboard key cap Kanata logo&#34;&gt;&#xD;&#xA;&lt;p&gt;Kanata &amp;ndash; in simple terms &amp;ndash; is a &lt;strong&gt;keyboard remapper&lt;/strong&gt;. You can configure your keyboard to execute certain commands when a specific sequence of keys are pressed, do one-to-one remaps, and set up layers to allow you to access keys that would otherwise be a pain in the ass to enter traditionally.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

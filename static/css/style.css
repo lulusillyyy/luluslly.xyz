@@ -1,75 +1,72 @@
-/* Dark mode - Light Pastel Purple Inversion */
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #E1DAED; /* Very light pastel purple for "dark" mode background */
-        color: #4F356B; /* Darker pastel purple for text (for contrast) */
+        background-color: #f2edf2;
+        color: #4F356B;
     }
 
     blockquote {
-        background: #EDE8F5; /* Lighter pastel purple for blockquote */
+        background: #EDE8F5;
     }
 
     a {
-        color: #A687D0; /* Slightly more vibrant pastel purple for links */
+        color: #A687D0;
     }
 
     header {
-        background: #A687D0; /* Slightly more vibrant pastel purple header */
-        border-bottom: 2px dotted #C7B4DE; /* Pastel purple dotted border */
+        background: #A687D0;
+        border-bottom: 2px dotted #C7B4DE;
     }
 
     .article-meta, .menu a {
-        background: #E1DAED; /* Very light pastel purple */
-        color: #4F356B; /* Darker pastel purple text */
+        background: #E1DAED;
+        color: #4F356B;
     }
 
     table {
         margin: auto;
-        border-top: 1px solid #B4A3CC; /* Darker pastel purple for table borders */
+        border-top: 1px solid #B4A3CC;
         border-bottom: 1px solid #B4A3CC;
     }
     table thead th { border-bottom: 1px solid #B4A3CC; }
     th, td { padding: 5px; }
-    tr:nth-child(even) { background: #F2EDF7; } /* Even lighter pastel purple for even rows */
-
+    tr:nth-child(even) { background: #F2EDF7; }
 }
 
-
-/* Light mode - Actual Pastel Pink (Main Theme) */
+/* Light mode */
 @media (prefers-color-scheme: light) {
     body {
-        background-color: #FFD1DC; /* Your actual pastel pink body background */
-        color: #4F356B; /* Darker pastel purple for main text (for contrast) */
+        background-color: #f3e4f5;
+        color: #4F356B;
     }
 
     blockquote {
-        background: #FFEBF0; /* Lighter pink for subtle blockquote contrast */
+        background: #EDE8F5;
     }
 
     a {
-        color: #C7B4DE; /* Pastel purple for links */
+        color: #A687D0;
     }
 
     header {
-        background: #C7B4DE; /* Pastel purple header */
+        background: #A687D0;
+        border-bottom: 2px dotted #C7B4DE;
     }
 
     .article-meta, .menu a {
-        background: #FFD1DC; /* Pastel pink */
-        color: #4F356B; /* Darker pastel purple text */
+        background: #E1DAED;
+        color: #4F356B;
     }
 
     table {
         margin: auto;
-        border-top: 1px solid #DBCFE0; /* Muted pastel purple for table borders */
-        border-bottom: 1px solid #DBCFE0;
+        border-top: 1px solid #B4A3CC;
+        border-bottom: 1px solid #B4A3CC;
     }
-    table thead th { border-bottom: 1px solid #DBCFE0; }
+    table thead th { border-bottom: 1px solid #B4A3CC; }
     th, td { padding: 5px; }
-    tr:nth-child(even) { background: #FFEBF0; } /* Lighter pink for even rows */
-
+    tr:nth-child(even) { background: #F2EDF7; }
 }
-
 
 /* Shared styles */
 body {
@@ -81,10 +78,13 @@ body {
 
 h1 {
     line-height: 1.5em;
+    color: #442d5c;
 }
 
+text-emphasis: "*" #555555;
+
 #TableOfContents, #TOC {
-    border: 1px solid light-dark(#DBCFE0, #B4A3CC); /* Pastel border that adapts to light/dark mode */
+    border: 1px solid light-dark(#000000, #ffffff);
     border-radius: 5px;
 }
 
@@ -248,3 +248,4 @@ blockquote {
   width: 100%;
   height: 360px;
 }
+

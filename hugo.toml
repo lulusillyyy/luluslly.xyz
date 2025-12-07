@@ -21,7 +21,7 @@ lineNos = false
 lineNumbersInTable = true
 noClasses = true
 style = "witchhazel"
-tabWidth = 4
+tabWidth = 2
 
 [permalinks]
 post = "/post/:year/:month/:day/:slug/"
@@ -57,21 +57,25 @@ footer = """
     <img src="/images/under_construction.gif" alt="This page is perpetually under construction" class="footer-gif">
     <img src="/images/matrix.gif" alt="Matrix numbers scrolling across the screen" class="footer-gif">
     <img src="/images/this_page_may_be_hazardous_to_your_health.gif" alt="Warning! This page may be hazardous to your mental health" class="footer-gif">
+    <p>
+        <a href="https://spyware.neocities.org/">
+        <img src="/images/online_spyware_watchdog.png" alt="Online Spyware Watchdog">
+    </p>
+    <p>
+        <a href="https://lucida.to/">
+        <img src="/images/freemusicnow.png" alt="Lucida">
+    </p>
 </div>
 
 <style>
-    /* Add this to your CSS file or a <style> block */
     .footer-gif {
-        /* Set explicit small dimensions, classic sizes */
-        width: 120px;   /* A very common old-school web button size */
-        height: 60px;  /* A very common old-school web button size */
-        object-fit: contain; /* Ensures the entire GIF is visible */
-        flex-shrink: 0;      /* Prevents GIFs from shrinking */
-        flex-grow: 0;        /* Prevents GIFs from growing */
+        width: 120px;
+        height: 60px;
+        object-fit: contain;
+        flex-shrink: 0;
+        flex-grow: 0;
     }
 
-    /* Optional: If some GIFs are naturally different sizes, you could create
-       specific classes for them, e.g.: */
     .footer-gif-large {
         width: 100px;
         height: 80px;

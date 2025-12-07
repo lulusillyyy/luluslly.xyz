@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Luluslly's Site
 description: "The official webpage of Lulu, your local silly billy."
 ---
 <img

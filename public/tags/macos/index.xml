@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MacOS on Home</title><link>https://luluslly.xyz/tags/macos/</link><description>Recent content in MacOS on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luluslly.xyz/tags/macos/index.xml" rel="self" type="application/rss+xml"/><item><title>Initial Thoughts On My Newfound Apple Ecosystem</title><link>https://luluslly.xyz/post/2025/07/24/initial-thoughts-on-my-newfound-apple-ecosystem/</link><pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate><guid>https://luluslly.xyz/post/2025/07/24/initial-thoughts-on-my-newfound-apple-ecosystem/</guid><description>&lt;p>I&amp;rsquo;ll be straight to the point: Last Saturday, I purchased the M4 MacBook Pro. I hadn&amp;rsquo;t really had the full Mac experience before—I had only used a late 2000s unibody MacBook with a broken trackpad and a dead battery running High Sierra. I already own a decent amount of Windows machines (with the majority being laptops), but my most used devices were Apple products: my iPhone 12, my numerous iPads, and even my now-broken pair of AirPods Max.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOS on Home</title>
+    <link>http://localhost:1313/tags/macos/</link>
+    <description>Recent content in MacOS on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial Thoughts On My Newfound Apple Ecosystem</title>
+      <link>http://localhost:1313/post/2025/07/24/initial-thoughts-on-my-newfound-apple-ecosystem/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025/07/24/initial-thoughts-on-my-newfound-apple-ecosystem/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be straight to the point: Last Saturday, I purchased the M4 MacBook Pro. I hadn&amp;rsquo;t really had the full Mac experience before—I had only used a late 2000s unibody MacBook with a broken trackpad and a dead battery running High Sierra. I already own a decent amount of Windows machines (with the majority being laptops), but my most used devices were Apple products: my iPhone 12, my numerous iPads, and even my now-broken pair of AirPods Max.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
