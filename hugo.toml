@@ -65,6 +65,10 @@ footer = """
         <a href="https://lucida.to/">
         <img src="/images/freemusicnow.png" alt="Lucida">
     </p>
+    <p>
+      <a href="https://one-piece.com/">
+      <img src="/images/one_piece_rd_banner.gif" alt="One Piece - Romance Dawn banner showing cast of East Blue saga." class="footer-gif">
+    </p>
 </div>
 
 <style>
