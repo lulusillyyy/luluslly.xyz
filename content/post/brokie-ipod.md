@@ -1,6 +1,6 @@
 ---
 title: Turning a Shitty Android Phone Into an iPod!
-date: 2025-12-18
+date: 2026-01-08
 categories:
     - music
     - android

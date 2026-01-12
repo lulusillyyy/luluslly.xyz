@@ -9,7 +9,7 @@ tags:
     - keyboard
     - kanata
 slug: kanata-config
-draft: false
+draft: true
 ---
 As of late, I have been working on keeping up-to-date repositories of my various configuration files, which can now be viewed on my [Forgejo instance](https://git.luluslly.xyz/lulusilly/). One of the things I have put a decent amount of work into has been my daily-use keyboard layout. Seeing as I've fallen hook, line, and sinker for the ergonomic keyboard craze, I've come up with a relatively comfortable setup using the [Kanata](https://github.com/jtroo/kanata) program.
 
