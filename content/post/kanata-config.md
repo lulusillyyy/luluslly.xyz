@@ -1,6 +1,6 @@
 ---
 title: Configuring a Corne-style Keyboard Layout Using Kanata 
-date: 2025-09-06
+date: 2026-03-05
 categories:
     - keyboard
     - computing
@@ -11,7 +11,7 @@ tags:
 slug: kanata-config
 draft: true
 ---
-As of late, I have been working on keeping up-to-date repositories of my various configuration files, which can now be viewed on my [Forgejo instance](https://git.luluslly.xyz/lulusilly/). One of the things I have put a decent amount of work into has been my daily-use keyboard layout. Seeing as I've fallen hook, line, and sinker for the ergonomic keyboard craze, I've come up with a relatively comfortable setup using the [Kanata](https://github.com/jtroo/kanata) program.
+As of late, I have been working on keeping up-to-date repositories of my various configuration files, which can now be viewed on my [Forgejo instance](https://basedprinter.xyz/lulu/). One of the things I have put a decent amount of work into has been my daily-use keyboard layout. Seeing as I've fallen hook, line, and sinker for the ergonomic keyboard craze, I've come up with a relatively comfortable setup using the [Kanata](https://github.com/jtroo/kanata) program.
 
 <img src="/images/kanata-icon.svg" alt="A white letter K imprinted on a pastel pink keyboard key cap Kanata logo">
 
