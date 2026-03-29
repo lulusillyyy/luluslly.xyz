@@ -15,7 +15,7 @@ Heya everyone. Long time, no see.
 
 I realize that I haven't published a single blog post since September, which is something I do honestly feel really bad about. This site is meant to be an extension of my thoughts and feelings, painted onto a digital canvas of sorts. It kinda defeats the purpose of maintaining a web server and taking up precious bandwidth and hard drive storage space if you're not doing anything with it, right? I think the least I could do is be transparent and let you guys know what I've been up to in the mean time.
 
-<img src="/images/yotsuba_cupid_gun.jpg" width="300" height="300" alt="">
+<img src="/images/yotsuba_cupid_gun.jpg" width="300" height="300" alt="Yotsuba wearing a cupid outfit and holding what looks to be a gun of sorts.">
 
 First, and most pressing: *I have a job now!* 
 
