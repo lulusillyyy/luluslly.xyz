@@ -22,7 +22,7 @@ In recent keyboard news, I have done some work on my 36-key [Corne](https://lulu
 <img src="/images/kinesis_adv_2_stock_img.jpg" width=500 height=300 alt="Kinesis Advantage 2 keyboard, with a Caucasian individual's hands resting on the palm rest, and their fingers resting on the home row and thumb clusters respectivley">
 
 # Server Stuff
-While I'll probably write a fully-fledged post on my current homelab setup, for now I'll mention that I got a fairly beefy dekstop I plan on turning into somewhat of a workhorse NixOS server. It's an HP Prodesk or something, with a **6c/12t** Intel chip and what was originally 8GB of RAM, which I upgraded with two added 16GB sticks to bring the total to about **40GB**. Fairly beefy, albeit kind of lacking in the CPU department. Currently I plan on running a Jellyfin servr for my music and videos. I have a 3TB hard drive plugged into it, which will likely become the storage for all that stuff. I'll keep you guys updated when I get everything deployed.
+While I'll probably write a fully-fledged post on my current homelab setup, for now I'll mention that I got a fairly beefy dekstop I plan on turning into somewhat of a workhorse NixOS server. It's an HP Prodesk or something, with a **6c/12t** Intel chip and what was originally 8GB of RAM, which I upgraded with two added 16GB sticks to bring the total to about **40GB**. Fairly beefy, albeit kind of lacking in the CPU department. Currently I plan on running a Jellyfin server for my music and videos. I have a 3TB hard drive plugged into it, which will likely become the storage for all that stuff. I'll keep you guys updated when I get everything deployed.
 
 # On Chainsaw Man Ending
 
