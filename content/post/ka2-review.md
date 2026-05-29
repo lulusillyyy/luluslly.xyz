@@ -1,6 +1,6 @@
 ---
 title: Reviewing the Kinesis Advantage 2
-date: 10 Apr 2026
+date: 25 May 2026
 categories:
     - computing
     - keyboard
@@ -10,13 +10,21 @@ tags:
     - kinesis advantage
     - ergonomic keyboards
 slug: kinesis-advantage-2-review
-draft: true
+draft: false
 ---
 
-If you've seen my [recent Mastodon posts](https://lesbodog.xyz/@lulu/116372719422126768), I have recently acquired a Kinesis Advantage 2 keyboard. I snagged it a few days ago, and so far I'm really enjoying it. I did say in my previous post that I want to 
+If you've seen my [recent Mastodon posts](https://lesbodog.xyz/@lulu/116372719422126768), I have recently acquired a Kinesis Advantage 2 keyboard. I snagged it a little over a month ago, and so far I'm really enjoying it. I did say in my previous post that I wanted to write a proper review on it at some point, and this post is just that.
 
 # Overview
 
-If you've never seen a Kinesis Advantage in the flesh, you'd be led to believe that it's some sort of gargantuan MAMMOTH of a keyboard, and a complete BEAST to handle. In reality, It's just a fairly long keybaord that's surprisingly light; a peeve of many owners of this keyboard for obvious reasons. I mean... if you were to compare the build quality of the Advantage 2 and Advantage 360, you'd be hard pressed to find anyone that wouldn't immediately flock to the 360. The Advantage 2 is simply a giant hunk of plastic with flexible PCBs inside.
+If you've never seen a Kinesis Advantage in the flesh, you'd be led to believe that it's some sort of gargantuan **MAMMOTH** of a keyboard, and a complete BEAST to handle. In reality, It's just a fairly long keybaord that's surprisingly light; a peeve of many owners of this keyboard for obvious reasons. I mean... if you were to compare the build quality of the Advantage 2 and Advantage 360, you'd be hard pressed to find anyone that wouldn't immediately flock to the 360. The Advantage 2 is simply a giant hunk of plastic with Cherry MX switches soldered to PCBs inside. Nevertheless, the board is relatively solid; while you can't kill a person with it, it's sturdy enough to last you many years with decent handling.
+
+To describe the keyboard itself, it is a unibody, split mechanical keyboard 
+
+#
+
+(Insert picture of the KA2 )
 
 (Insert picture of the KA2 with stickers applied.)
+
+The version I purchased was a
